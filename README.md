@@ -38,7 +38,6 @@ A management system for car repair workshops, built with **ASP.NET Core** follow
 
 - Layers: Domain · Application · Infrastructure · API
 - CQRS with MediatR (Commands / Queries separation)
-- <!-- Add 2–3 more real features here, e.g. work orders, customers & vehicles, invoices, JWT auth -->
 
 🌐 Live demo: *coming soon*
 
