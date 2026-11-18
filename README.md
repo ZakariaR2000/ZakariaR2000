@@ -25,8 +25,11 @@ I enjoy designing databases, building RESTful APIs, and applying solid architect
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 **Back-End:** ASP.NET Core Web API · MVC · RESTful APIs · Entity Framework Core · ADO.NET
+
 **Databases:** SQL Server (T-SQL, Stored Procedures, Functions) · PostgreSQL · Oracle
+
 **Architecture:** Clean Architecture · CQRS · N-Tier · SOLID · OOP
+
 **Front-End basics:** HTML · CSS · JavaScript
 
 ---
