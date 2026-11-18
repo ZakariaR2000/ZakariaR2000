@@ -33,14 +33,14 @@ I enjoy designing databases, building RESTful APIs, and applying solid architect
 
 ## 🚀 Featured Project
 
-### 🔧 MechanicShop — *In progress, going to production soon*
+### 🔧 MechanicShop (Personal Project) — *In progress, going to production soon*
 A management system for car repair workshops, built with **ASP.NET Core** following **Clean Architecture** and the **CQRS** pattern.
 
 - Layers: Domain · Application · Infrastructure · API
 - CQRS with MediatR (Commands / Queries separation)
 - <!-- Add 2–3 more real features here, e.g. work orders, customers & vehicles, invoices, JWT auth -->
 
-🔗 [Repository](https://github.com/ZakariaR2000/MechanicShop) · 🌐 Live demo: *coming soon*
+🌐 Live demo: *coming soon*
 
 ---
 
